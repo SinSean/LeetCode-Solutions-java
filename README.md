@@ -7,7 +7,8 @@
 
 Java Node的操作方式不同
 ---
-[Java node使用參考](https://www.codingsusu.com/java-datastructure-linkedlist/t
+[Java node使用參考](https://www.codingsusu.com/java-datastructure-linkedlist/t)
+
 創一個node  ListNode d;
 
 建立新的node並賦予val(num)  ListNode gcdNode = new ListNode(num);
