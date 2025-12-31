@@ -7,7 +7,7 @@
 
 Java Node的操作方式不同
 ---
-[Java node使用參考](https://www.codingsusu.com/java-datastructure-linkedlist/t)
+[Java node使用參考](https://www.codingsusu.com/java-datastructure-linkedlist/)
 
 創一個node  ListNode d;
 
